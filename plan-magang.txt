@@ -4,3 +4,5 @@
 - Vue Js
 - React
 - Yii
+- Bahasa Python
+- Css
