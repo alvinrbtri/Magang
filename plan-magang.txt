@@ -1,8 +1,10 @@
-- Back End
-- CodeIgnitere
-- Javascript
+Bahasa PHP
+- CodeIgniter
+- Laravel
+Bahasa JavaScript
 - Vue Js
 - React
-- Yii
-- Bahasa Python
-- Css
+Bahasa Java
+- Spring
+Bahasa Css
+- Bootstrap
